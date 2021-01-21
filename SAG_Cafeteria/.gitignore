@@ -1,10 +1,3 @@
 /db.sqlite3
-/Registration/__pycache__/views.cpython-38.pyc
-/Registration/__pycache__/__init__.cpython-38.pyc
-/SAG_Cafeteria/Cafeteriacore/__pycache__/__init__.cpython-38.pyc
-/SAG_Cafeteria/Cafeteriacore/__pycache__/admin.cpython-38.pyc
-/SAG_Cafeteria/Cafeteriacore/__pycache__/models.cpython-38.pyc
-/SAG_Cafeteria/SAG_Cafeteria/__pycache__/__init__.cpython-38.pyc
-/SAG_Cafeteria/SAG_Cafeteria/__pycache__/settings.cpython-38.pyc
-/SAG_Cafeteria/SAG_Cafeteria/__pycache__/urls.cpython-38.pyc
-/SAG_Cafeteria/SAG_Cafeteria/__pycache__/wsgi.cpython-38.pyc
+*.pyc
+/SAG_Cafeteria/settings.py

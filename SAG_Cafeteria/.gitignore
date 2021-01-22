@@ -1,3 +1,3 @@
 /db.sqlite3
 *.pyc
-/SAG_Cafeteria/settings.py
+.env

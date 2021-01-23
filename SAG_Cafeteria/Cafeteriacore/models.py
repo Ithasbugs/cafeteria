@@ -8,6 +8,7 @@ class ExtendedUserInfo(models.Model):
     phone_number = models.CharField(null=True, blank=True, max_length=15)
     employee_id = models.CharField(null=True, blank=True, max_length=250)
     organization = models.CharField(null=True, blank=True, max_length=250)
+    id_card = models.ImageField(upload_to='', null=True, blank=True)
 
 
 class Item(models.Model):
